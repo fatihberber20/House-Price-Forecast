@@ -1,4 +1,5 @@
 Boston House Price Prediction Using Decision Tree Regressor
+
 This project provides a machine learning solution to predict house prices in Boston using the Decision Tree Regressor algorithm. Leveraging the Boston House Price dataset from Kaggle, we preprocess, analyze, and model the data to accurately predict the median house price (MEDV). This repository aims to guide users interested in real estate data analytics, regression modeling, and decision tree implementations in Python.
 
 Table of Contents
